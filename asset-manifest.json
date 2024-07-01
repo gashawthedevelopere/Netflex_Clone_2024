@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Netflex_Clone_2024/static/css/main.f5e64518.css",
+    "main.js": "/Netflex_Clone_2024/static/js/main.44aefa5c.js",
+    "static/media/NetflexLogo.png": "/Netflex_Clone_2024/static/media/NetflexLogo.f113f795bdbaf927c49c.png",
+    "index.html": "/Netflex_Clone_2024/index.html",
+    "main.f5e64518.css.map": "/Netflex_Clone_2024/static/css/main.f5e64518.css.map",
+    "main.44aefa5c.js.map": "/Netflex_Clone_2024/static/js/main.44aefa5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5e64518.css",
+    "static/js/main.44aefa5c.js"
+  ]
+}
