@@ -1,6 +1,8 @@
 
-
+*{
+    margin: 0;
+}
 
 .APP{
- /*background-color: #000;*/
+background-color: #111;
 }
